@@ -6,6 +6,7 @@ That will send out an 8 cycle sonic burst which will travel at the speed sound a
 The Echo Pin will output the time in microseconds the sound wave traveled.
 
 ## Experiment Connections:
+![Screenshot 2023-10-25 013710](https://github.com/TheAkshantSaini/Robotics-Internship/assets/92256182/6a445c49-f5b3-44c7-b05f-29f55e702e66)
 
 • Vcc to 5V of Space Robochip
 • Trig to Digital Pin 5 of Space Robochip
