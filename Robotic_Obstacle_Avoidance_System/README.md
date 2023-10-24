@@ -15,6 +15,7 @@ To build and run this project, you'll need the following components:
 - Computer for programming and debugging
 
 ### Wiring
+![Screenshot 2023-10-25 013822](https://github.com/TheAkshantSaini/Robotics-Internship/assets/92256182/6bdb4289-dc37-4959-8c7e-e27f6cc797b0)
 
 1. Connect the ultrasonic sensor to your Arduino board as follows:
    - Trigger pin of the sensor to pin 5 on your Arduino (define as `#define echo 5` in your code).
