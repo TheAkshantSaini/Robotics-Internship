@@ -13,12 +13,13 @@ To replicate this project, you will need the following components:
 - USB cable to connect the Arduino to your computer
 
 ## Wiring Diagram
-![Screenshot 2023-10-25 013229](https://github.com/TheAkshantSaini/Robotics-Internship/assets/92256182/6b102160-2ec8-4484-8dec-0d475b62bc14)
 
 Make the following connections on your breadboard:
 
 - Connect the longer leg of the LED (the anode) to pin 6 on the Arduino through a 220-ohm resistor.
 - Connect the shorter leg of the LED (the cathode) to the ground (GND) on the Arduino.
+
+![Screenshot 2023-10-25 013229](https://github.com/TheAkshantSaini/Robotics-Internship/assets/92256182/6b102160-2ec8-4484-8dec-0d475b62bc14)
 
 ## Installation
 
