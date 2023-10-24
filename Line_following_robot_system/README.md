@@ -13,6 +13,7 @@ Before working with the programming, it's essential to set up the hardware corre
 - **IR Sensors**: The robot is equipped with two IR sensors:
   - Left sensor, connected to space robo chip's pin number 6
   - Right sensor, connected across digital pin 5
+![Screenshot 2023-10-25 013944](https://github.com/TheAkshantSaini/Robotics-Internship/assets/92256182/9470a265-3f60-4318-b742-7e2e08f1afb4)
 
 ## Programming
 The core functionality of the line-following robot is based on the readings from the IR sensors. These sensors detect the contrast between the surface (white or black) and provide feedback to the robot's control system.
